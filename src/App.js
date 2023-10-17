@@ -14,8 +14,8 @@ import Calendar from './scenes/calendar/calendar';
 */
 import { CssBaseline, ThemeProvider } from '@mui/material';
 import { ColorModeContext, useMode } from './theme';
-import { Routes, Route } from "react-router-dom";
-import Topbar from "./scenes/global/Topbar";
+import { Routes, Route } from 'react-router-dom';
+import Topbar from './scenes/global/Topbar';
 import { useState } from 'react';
 
 function App() {
